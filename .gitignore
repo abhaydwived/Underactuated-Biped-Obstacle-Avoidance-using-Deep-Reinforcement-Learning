@@ -28,9 +28,8 @@ models/
 models_*/
 
 # Experiment Videos and Output Media
-Experiment videos/
+
 eval_metrics/
-*.mp4
 *.avi
 *.mkv
 
