@@ -5,7 +5,7 @@
 ## 🎥 Simulation Demonstration
 
 <div align="center">
-  <video src="Experiment%20videos/exp_final_pass.mp4" width="80%" controls autoplay loop muted></video>
+  <img src="Experiment%20videos/exp_final_pass.gif" width="80%" alt="Simulation Demonstration">
 </div>
 
 ## 📌 Overview
